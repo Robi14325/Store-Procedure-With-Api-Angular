@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APDatabaseWebApi", "APDatabaseWebApi\APDatabaseWebApi.csproj", "{91AABD78-CD26-453F-938A-8B0B508104BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AABD78-CD26-453F-938A-8B0B508104BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AABD78-CD26-453F-938A-8B0B508104BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AABD78-CD26-453F-938A-8B0B508104BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AABD78-CD26-453F-938A-8B0B508104BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498B1A9E-AE33-4FE5-A519-659182E807DE}
+	EndGlobalSection
+EndGlobal
